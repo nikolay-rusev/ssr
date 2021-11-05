@@ -1,6 +1,5 @@
 node_modules
 .DS_Store
 .idea
-
 assets/bundle.js
 assets/client.js
